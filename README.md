@@ -1,7 +1,7 @@
 <a href="https://anushkamarketing.github.io/AnushkaMarketing/">
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/signal-portrait-v2.png" />
-  <img src="assets/signal-portrait-v2.gif" width="100%" alt="Anushka Joshi: thousands of luminous dots form a portrait, flow into ribbons and reassemble. Ideas that move people." />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/particle-portrait-no-orbits-v3.png" />
+  <img src="assets/particle-portrait-no-orbits-v3.gif" width="100%" alt="Anushka Joshi: thousands of luminous dots form a portrait, flow into ribbons and reassemble. Ideas that move people." />
 </picture>
 </a>
 
