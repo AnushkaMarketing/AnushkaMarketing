@@ -36,14 +36,14 @@ Search Console · WordPress · Excel.
 
 ### Project spotlight · Creator Intel
 
-<a href="../creator-intel"><img src="assets/project-spotlight.png" width="100%" alt="Creator Intel — a research workbench connecting public signals, content patterns and clearer briefs" /></a>
+<a href="https://github.com/AnushkaMarketing/creator-intel"><img src="assets/project-spotlight.png" width="100%" alt="Creator Intel — a research workbench connecting public signals, content patterns and clearer briefs" /></a>
 
 A creator-research project exploring a question close to my work: **how do we
 turn scattered public signals into a more useful brief?** The repository brings
 together collection, analysis and report generation, with a clear distinction
 between observed facts and modelled estimates.
 
-[Explore the project](../creator-intel) · [See my portfolio](https://anushka-joshi.netlify.app/)
+[Explore the project](https://github.com/AnushkaMarketing/creator-intel) · [See my portfolio](https://anushka-joshi.netlify.app/)
 
 ### The foundation
 
