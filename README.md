@@ -5,6 +5,8 @@
 
 <p align="center"><img src="assets/anushka-modern-avatar.png" width="128" height="128" alt="Portrait of Anushka Joshi" /></p>
 
+<p align="center"><a href="https://anushkamarketing.github.io/AnushkaMarketing/">Open the interactive particle profile ↗</a></p>
+
 <p align="center"><a href="https://anushka-joshi.netlify.app/">Read my portfolio</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/anushkamjoshi/">LinkedIn</a> &nbsp; / &nbsp; <a href="https://www.instagram.com/anushkamjoshi/">Instagram</a></p>
 
 ## I make content worth pausing for.
