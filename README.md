@@ -1,8 +1,11 @@
+<a href="https://anushkamarketing.github.io/AnushkaMarketing/">
 <picture>
-  <img src="assets/static-masthead.png" width="100%" alt="Anushka Joshi — marketing, ideas and signal." />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/signal-portrait-v2.png" />
+  <img src="assets/signal-portrait-v2.gif" width="100%" alt="Anushka Joshi: thousands of luminous dots form a portrait, flow into ribbons and reassemble. Ideas that move people." />
 </picture>
+</a>
 
-<p align="center"><img src="assets/anushka-modern-avatar.png" width="128" height="128" alt="Portrait of Anushka Joshi" /></p>
+<p align="center"><a href="https://anushkamarketing.github.io/AnushkaMarketing/">Explore the interactive particle canvas</a></p>
 
 <p align="center"><a href="https://anushka-joshi.netlify.app/">Read my portfolio</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/anushkamjoshi/">LinkedIn</a> &nbsp; / &nbsp; <a href="https://www.instagram.com/anushkamjoshi/">Instagram</a></p>
 
@@ -33,14 +36,11 @@ June 2023 – February 2026 · Promotional copy, social content, short-form vide
 **Tools I work with:** Canva · Meta Business Suite · Google Analytics 4 · Google
 Search Console · WordPress · Excel.
 
-### Project spotlight · Creator Intel
+### Project spotlight · Omniscope
 
-<a href="https://github.com/AnushkaMarketing/creator-intel"><img src="assets/project-spotlight.png" width="100%" alt="Creator Intel — a research workbench connecting public signals, content patterns and clearer briefs" /></a>
-
-A creator-research project exploring a question close to my work: **how do we
-turn scattered public signals into a more useful brief?** The repository brings
-together collection, analysis and report generation, with a clear distinction
-between observed facts and modelled estimates.
+A self-hosted marketing intelligence workbench for creator and website research.
+Omniscope connects discovery, evidence and reports, keeping observed signals
+distinct from calculated scores and modelled estimates.
 
 [Explore the project](https://github.com/AnushkaMarketing/creator-intel) · [See my portfolio](https://anushka-joshi.netlify.app/)
 
