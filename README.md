@@ -1,6 +1,5 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/particle-masthead.png" />
-  <img src="assets/particle-masthead.gif" width="100%" alt="Anushka Joshi — a responsive field of marketing signals." />
+  <img src="assets/static-masthead.png" width="100%" alt="Anushka Joshi — marketing, ideas and signal." />
 </picture>
 
 <p align="center"><img src="assets/anushka-modern-avatar.png" width="128" height="128" alt="Portrait of Anushka Joshi" /></p>
